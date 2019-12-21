@@ -1,0 +1,94 @@
+body
+{
+    background-color:coral;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
+ul{
+
+    color: forestgreen;
+    
+}
+h1{
+    color:blue;
+    position: relative;
+    font-weight: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+h4
+{
+    color: blue;
+    font-size: larger;
+}
+span{
+    color: black;
+}
+button{
+
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+button:hover
+{
+    transition: 0.5s;
+    background-color: blueviolet;
+    color: yellow;
+    text-decoration: underline;
+}
+.header
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: black;
+    
+}
+.login
+{
+    float: right;
+}
+.header a
+{
+    color: white;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-decoration: none;
+}
+ol a
+{
+    text-decoration: none;
+    font-size: large;
+    color: darkgreen;
+}
+ol
+{
+    font-size: large;
+    color: darkgreen;
+}
+hr
+{
+    border-radius: 15%;
+}
+input
+{
+    font-size: larger;
+    background-color: crimson;
+    color: black;
+}
+label
+{
+    font-size: 20px;
+    font-weight: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
